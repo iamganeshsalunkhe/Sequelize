@@ -9,7 +9,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "mysql2",
+            "name": "localhost",
             "database": "demo",
             "username": "root"
         }
